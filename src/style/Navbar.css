@@ -1,0 +1,18 @@
+.container-navbar {
+  background-color: aqua;
+  display: flex;
+  font-size: 20px;
+  padding: 0 6rem;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+}
+
+.myUl {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  width: 20%;
+  text-decoration: none;
+  color: aliceblue;
+}
